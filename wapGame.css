@@ -1,0 +1,254 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    height: 100vh;
+    align-items: center;
+    
+
+}
+
+.footer-pic {
+    width: 100px;
+}
+
+
+.random-pics {
+    width: 100px;
+}
+
+
+.welcome-box {
+    border: 1px solid black;
+    width: fit-content;
+    margin-bottom: 15px;
+    
+    
+}
+
+.separete {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    padding: 30px;
+    
+}
+
+.welcome {
+    background-color: grey;
+    
+    text-align: center;
+}
+
+.info {
+    padding:10px 30px;
+}
+
+.important {
+    border: 1px solid black;
+    margin-bottom: 15px;
+
+}
+.important-item {
+    text-align: center;
+    background-color: grey;
+}
+
+.ad {
+    border: 1px solid black;
+    margin-bottom: 15px;
+}
+.ad-footer {
+    border-top: 2px solid black;
+    display: flex;
+    justify-content: center;
+}
+
+.grid-item-1 {
+    
+    max-width: 198.42px;
+    justify-self: end;
+}
+.grid-item-2 {
+    justify-self: start;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    width: 696px;
+    align-content: center;
+    
+}
+
+.grid-container {
+    gap: 15px;
+}
+
+body {
+    margin: 0;
+}
+
+.sep-con {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ad-header {
+    text-align: center;
+    background-color: grey;
+}
+
+.important-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    padding: 10px;
+}
+
+.finx-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.meine-img {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+p {
+    text-align: center;
+    margin: 0;
+}
+
+.meinex {
+    margin: 10px 0;
+}
+
+.main-picture {
+    padding-top: 10px ;
+    padding-bottom: 5px;
+    
+}
+
+.lottery {
+    
+    width: 100%;
+    text-align: center;
+    background-color: grey;
+}
+
+.picture-text {
+    
+    width: 100%;
+    text-align: center;
+    background-color: grey;
+}
+
+.togerther {
+
+
+    width: 100%;
+    text-align: center;
+    background-color: grey;
+}
+.finx {
+    
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.main-picture {
+    background-color: grey;
+}
+
+.nested-wit {
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+}
+
+body {
+    background-image: url(https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/598940/0614ad9c2d97b6e2c52ebceec43e397780b38b2f.jpg);
+    font-family: 'New Tegomin', serif;
+    font-size: 15px
+    
+    
+}
+
+.kont {
+    background-color: #979dac;
+    
+}
+
+.kont-1 {
+    background-color: #333533;
+    color: white;
+    padding: 5px 0;
+
+}
+
+
+.buttonx {
+    border: 1px solid black;
+    border-radius: 2em;
+    margin-bottom: 10px;
+    background-color: #333533;
+    color: white;
+    
+    
+}
+
+.hello {
+    width: auto;
+}
+
+.grid-item-1,
+.grid-item-2 {
+    height: 678px;
+}
+
+.boss {
+    width: 80px;
+}
+
+.players {
+    margin-bottom: 10px;
+}
+
+.important-text {
+    text-align: center;
+}
+
+.random-pictures {
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+}
+
+.ran-1 {
+    align-self: center;
+}
+
+
+.ran-3 {
+    align-self: center;
+}
+
+
+.random-pictures {
+    margin:0;
+}
+
+.kont-2 {
+    border-bottom: 1px solid black;
+}
+
+.kont-3 {
+    border: 1px solid black;
+}
